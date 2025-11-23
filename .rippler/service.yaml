@@ -1,0 +1,3 @@
+service: payment-service
+dependencies:
+  - order-service
