@@ -4,7 +4,7 @@ import com.miniscale.payment.client.OrderClient;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
-@RequestMapping("/payments")
+@RequestMapping("v1/payments")
 public class PaymentController {
 
     private final OrderClient orderClient;
