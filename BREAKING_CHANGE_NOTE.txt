@@ -1,0 +1,1 @@
+// NOTE: Payment service intentionally left calling /orders to demonstrate cascading failure
